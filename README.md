@@ -1,4 +1,4 @@
-bijiasuo2006.home
+Edison Home
 =================
 
 This is the repository at home
